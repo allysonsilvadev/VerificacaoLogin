@@ -1,20 +1,23 @@
 # VerificacaoLogin 🔐
 
-Sistema simples de autenticação no console desenvolvido em **C#**.  
-Solicita usuário e senha, valida e retorna se o acesso é permitido.
-
----
-
-## 🖥️ Demonstração
-
-![Demonstração do programa](demo.png)
+Projeto em **C# (.NET)** que simula um sistema simples de **login e verificação de credenciais**.  
+Perfeito para praticar **condições**, **loops**, **tratamento de entradas** e **lógica de autenticação**.
 
 ---
 
 ## ✨ Funcionalidades
-- Entrada de usuário e senha
-- Comparação com credenciais armazenadas
+- Solicitação de usuário e senha
+- Verificação de credenciais armazenadas
 - Mensagens de sucesso ou falha
+- (Opcional) Tentativas limitadas para segurança
+
+---
+
+## 🧱 Tecnologias Utilizadas
+- C#
+- .NET Console
+- Estruturas condicionais (`if`, `else`)
+- Entrada de dados (`Console.ReadLine()`)
 
 ---
 
